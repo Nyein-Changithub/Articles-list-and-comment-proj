@@ -20,5 +20,3 @@ npm run build
 php aritsan install:api
 php aritsan make:controller CategoryApicontroller --api --model=Category
 
-
-https://github.com/eimg/pwd-2024-feb ( source code for api project)
